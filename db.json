@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "todoText": "Belajar Flutter",
+      "isCompleted": false
+    },
+    {
+      "id": "2",
+      "todoText": "Membaca buku",
+      "isCompleted": true
+    }
+  ]
+}
